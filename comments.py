@@ -177,3 +177,5 @@ if __name__ == '__main__':
     douban.gethotComment()
     douban.writer_to_csv()
     douban.makewordcloud()
+
+    
